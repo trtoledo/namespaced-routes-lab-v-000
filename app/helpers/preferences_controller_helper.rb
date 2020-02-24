@@ -1,2 +1,2 @@
-# module PreferencesControllerHelper
-# end
+module PreferencesControllerHelper
+end
